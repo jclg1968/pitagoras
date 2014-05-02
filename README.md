@@ -1,0 +1,4 @@
+pitagoras
+=========
+
+Aplicacion de Numerologia
